@@ -1,0 +1,18 @@
+c:\users\amr\documents\visual studio 2012\Projects\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Users\AMR\documents\visual studio 2012\Projects\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Users\AMR\documents\visual studio 2012\Projects\Grades\Grades\obj\Debug\Grades.Properties.Resources.resources
+C:\Users\AMR\documents\visual studio 2012\Projects\Grades\Grades\obj\Debug\Grades.csproj.GenerateResource.Cache
+C:\Users\AMR\documents\visual studio 2012\Projects\Grades\Grades\bin\Debug\Grades.exe
+C:\Users\AMR\documents\visual studio 2012\Projects\Grades\Grades\bin\Debug\Grades.pdb
+C:\Users\AMR\documents\visual studio 2012\Projects\Grades\Grades\obj\Debug\Grades.MainForm.resources
+C:\Users\AMR\documents\visual studio 2012\Projects\Grades\Grades\obj\Debug\Grades.exe
+C:\Users\AMR\documents\visual studio 2012\Projects\Grades\Grades\obj\Debug\Grades.pdb
+E:\Grades\Grades\bin\Debug\Grades.exe.config
+E:\Grades\Grades\obj\Debug\Grades.exe
+E:\Grades\Grades\obj\Debug\Grades.pdb
+E:\Grades\Grades\bin\Debug\Grades.exe
+E:\Grades\Grades\bin\Debug\Grades.pdb
+E:\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+E:\Grades\Grades\obj\Debug\Grades.MainForm.resources
+E:\Grades\Grades\obj\Debug\Grades.Properties.Resources.resources
+E:\Grades\Grades\obj\Debug\Grades.csproj.GenerateResource.Cache
